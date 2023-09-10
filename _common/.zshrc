@@ -163,5 +163,3 @@ alias rm='rm -iv'
 alias mkdir='mkdir -v'
 
 alias .='source'
-
-alias docker-compose='docker compose'
